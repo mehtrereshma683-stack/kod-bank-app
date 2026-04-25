@@ -25,4 +25,4 @@ src/main/resources
 database
 
 ## Developed By
-Your Name
+Reshma Mehtre
